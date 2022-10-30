@@ -1,7 +1,7 @@
 const Land = artifacts.require("Land")
 
 module.exports = async function (deployer) {
-    const NAME = 'DApp U Buildings'
+    const NAME = 'BLOKVERSE BLOKS'
     const SYMBOL = 'DUB'
     const COST = web3.utils.toWei('1', 'ether')
 
